@@ -1,0 +1,1 @@
+I chose Provider because it offers a lightweight and clear separation between UI and business logic. It integrates well with Flutter’s widget tree, avoids boilerplate, and is ideal for medium-scale applications where predictable state updates and performance are required.
